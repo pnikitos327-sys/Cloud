@@ -46,4 +46,4 @@ python manage.py createsuperuser
 
 # Run server
 python manage.py runserver
-Open http://127.0.0.1:8000 in your browser.
+Open in your browser.
